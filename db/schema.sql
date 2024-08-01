@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS songsaves_db;
+CREATE DATABASE songsaves_db;
